@@ -95,6 +95,24 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: C 
+        level: 90%
+
+      - name: Java
+        level: 90%
+
+      - name: Unity
+        level: 98%
+
+      - name: C#
+        level: 950%
+
+      - name: Wordpress
+        level: 90%
+
+      - name: Photoshop
+        level: 70%
+      
       
 
 footer: >
