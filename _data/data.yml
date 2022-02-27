@@ -95,35 +95,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python 
-        level: 58%
-
-      - name: Javascript & jQuery
-        level: 80%
-
-      - name: Unity
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 80%
-
-      - name: Wordpress
-        level: 90%
-
-      - name: Sketch & Photoshop
-        level: 70%
-        
-       - name: Java
-        level: 85%
-       
-       - name: C
-        level: 90%
-        
-       - name: C++
-        level: 40%
-        
-       - name: C#
-        level: 92%
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
