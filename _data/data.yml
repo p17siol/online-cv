@@ -54,7 +54,7 @@ education:
 experiences:
     - role: Making Video Games and E-commerce websites
       time: 2017 - Present
-      company: Ioanian University and F
+      company: Ioanian University 
       details: 
           - Porgramming
           - Web Devolopment
@@ -73,58 +73,57 @@ projects:
         link: 
         tagline: "The first game I created was called Help Jacob! It was a maze game and I made it in the unity environment"
 
-      - title: Multimedia Game
+      - title: Multimedia Game (Video Game)
         link: 
         tagline: "The 2nd game that my team and I created was a multimedia game in which the player was tested on his knowledge of mathematics and geography. Whili there was a 3rd s-game for fun.
         Created in the MIT scratch enviroment"
 
-      - title: Atom
+      - title: KickBreakey (Video Game)
         link: 
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "The 3rd game that my team and I created was a fun game. The object of the game was to break all the boxes before the player lost. Devoloped in Unity enviroment"
 
 publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+    title: 
+    intro: 
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title:
+        link:
+        authors:
+        conference: 
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 58%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
+      - name: Unity
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Wordpress
+        level: 90%
 
       - name: Sketch & Photoshop
-        level: 60%
+        level: 70%
+        
+       - name: Java
+        level: 85%
+       
+       - name: C
+        level: 90%
+        
+       - name: C++
+        level: 40%
+        
+       - name: C#
+        level: 92%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
